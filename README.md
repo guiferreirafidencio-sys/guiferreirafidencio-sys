@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="center">Hello world, me chamo Guilherme 👋<br>Desenvolvedor em evolução,</h1>
+<h1 align="center">Hello world, me chamo Guilherme 👋<br>Desenvolvedor em evolução</h1>
 
 ###
 
