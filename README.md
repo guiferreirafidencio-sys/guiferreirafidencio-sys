@@ -4,7 +4,9 @@
 
 <h1 align="center">Hello world, me chamo Guilherme 👋<br>Desenvolvedor em evolução</h1>
 
-<p align="center">🎓 Estudante de Ciências da Computação | Futuro dev | Sempre aprendendo algo novo</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=%F0%9F%8E%93+Estudante+de+Ci%C3%AAncias+da+Computa%C3%A7%C3%A3o;%F0%9F%9A%80+Futuro+Dev;%F0%9F%93%9A+Sempre+aprendendo+algo+novo;%F0%9F%92%BB+Python+%26+Flask+enthusiast" alt="Typing SVG" />
+</p>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode logo"  />
